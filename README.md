@@ -5,5 +5,5 @@ INSTALLATION:
   	($2.99 as of 15 Nov 2024)
 3.	Download the STL or 3MF file and print the object using the default 0.2 Settings.
 4.	Remove the screw holding the original wiper.
-5.	Insert this object into the same place with the letter facing into the bucket and fasten it in with the original screw.
+5.	Insert this object into the same place with the letters facing into the bucket and fasten it in with the original screw.
 6.	Taking the Heatbed Nozzle Wiper (A1), cut to fit snuggly into the tray. Use hot glue to secure the wiper into the tray.
